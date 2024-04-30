@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/nirgranth/count.svg" style="width: 180px;"/>
 </p>
 
-# Nixos' Github Profile 
+# Nirgranth's Github Profile 
 
 #### Self-Proclaimed Programmer
 
