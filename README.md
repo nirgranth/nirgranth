@@ -12,8 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/nirgranth">
-    <img style="margin: 10px"src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,cloudflare,bootstrap,netlify,cassandra,dynamodb,postgres,prisma,redis,sqlite,arch,nix,kali,ubuntu,redhat,latex,md,lua,regex,bash,powershell,neovim,emacs,androidstudio,dart,flutter,firebase,gradle,css,html,htmx,ts,js,sass,tailwind,webpack,nginx,threejs,nodejs,bun,pnpm,graphql,git,github,githubactions,gitlab,discord,bots,go,rust,haskell,c,cpp,cmake,py,opencv,pytorch,tensorflow,terraform,anaconda,django,r,d3,grafana,selenium,jenkins,cypress,express,jest,jquery,figma,ae,au,ps,pr,blender,godot,unity,unreal,fastapi,postman,&perline=7"alt="My Skills"/>
-</p>
+    <img style="margin: 10px"src="https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow,terraform,go,rust,haskell,html,htmx,css,js,ts,discord,bots,aws,cloudflare,docker,d3,grafana,postgres,cassandra,redis,sqlite,git,lua,regex,neovim,&perline=7"alt="My Skills"/>
 
 ## Github Stats
 
