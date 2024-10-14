@@ -2,12 +2,6 @@
 
 #### Self-Proclaimed Programmer
 
-
-<p align="center"> 
-  Visitor Count: <br> <b><i>(from 30/04/24 Onwards)<b><i> <br><br>
-  <img src="https://profile-counter.glitch.me/nirgranth/count.svg" style="width: 180px;"/>
-</p>
-
 ## Skills
 
 <p align="center">
